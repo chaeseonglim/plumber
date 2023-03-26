@@ -1,0 +1,9 @@
+[package]
+name = "plumber"
+version = "0.1.0"
+edition = "2021"
+authors = ["Chaeseong Lim <crimsuni@gmail.com>"]
+descrption = "A pipeline framework for multiple tasks"
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
